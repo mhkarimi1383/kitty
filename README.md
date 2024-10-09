@@ -1,5 +1,5 @@
 # kitty
-Kitty Terminal Configuration (Based on dracula theme and Recursive Nerd Font Mono)
+Kitty Terminal Configuration (Based on dracula theme and RecMonoCasual Nerd Font Mono)
 
 ## Installation
 
