@@ -1,5 +1,5 @@
 # kitty
-Kitty Terminal Configuration (Based on catpuchin mocha theme and CaskaydiaCove Nerd Font Mono)
+Kitty Terminal Configuration
 
 ## Installation
 
